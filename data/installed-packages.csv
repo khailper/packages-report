@@ -1,0 +1,987 @@
+Package,LibPath,Version,Priority,License,License_is_FOSS,NeedsCompilation,Built
+abcrf,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.7.1,NA,GPL (>= 2),NA,yes,3.5.0
+abind,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4-5,NA,LGPL (>= 2),NA,no,3.5.0
+ACD,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.5.3,NA,GPL (>= 2),NA,no,3.5.0
+acepack,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4.1,NA,MIT + file LICENSE,NA,yes,3.5.0
+actuar,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.3-1,NA,GPL (>= 2),NA,yes,3.5.0
+ada,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0-5,NA,GPL,NA,no,3.5.0
+adabag,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,4.2,NA,GPL (>= 2),NA,no,3.5.0
+ade4,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.7-13,NA,GPL (>= 2),NA,yes,3.5.1
+AER,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2-6,NA,GPL-2 | GPL-3,NA,no,3.5.2
+afex,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.22-1,NA,GPL (>= 2),NA,no,3.5.2
+agricolae,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2-8,NA,GPL,NA,no,3.5.1
+AlgDesign,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1-7.3,NA,GPL (>= 2),NA,yes,3.5.0
+Amelia,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.7.5,NA,GPL (>= 2),NA,yes,3.5.0
+animation,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.6,NA,GPL,NA,no,3.5.0
+ANLP,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3,NA,GPL-3,NA,no,3.5.0
+AnnotationDbi,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.30.1,NA,Artistic-2.0,NA,no,3.2.0
+ape,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,5.2,NA,GPL (>= 2),NA,yes,3.5.1
+AppliedPredictiveModeling,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1-7,NA,GPL-2,NA,no,3.5.0
+aqp,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.16-3,NA,GPL (>= 3),NA,no,3.5.1
+arm,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.10-1,NA,GPL (>= 3),NA,no,3.5.0
+assertive,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3-5,NA,GPL (>= 3),NA,no,3.5.0
+assertive.base,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0-7,NA,GPL (>= 3),NA,no,3.5.0
+assertive.code,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0-3,NA,GPL (>= 3),NA,no,3.5.1
+assertive.data,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0-3,NA,GPL (>= 3),NA,no,3.5.1
+assertive.data.uk,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0-2,NA,GPL (>= 3),NA,no,3.5.1
+assertive.data.us,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0-2,NA,GPL (>= 3),NA,no,3.5.1
+assertive.datetimes,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0-2,NA,GPL (>= 3),NA,no,3.5.0
+assertive.files,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0-2,NA,GPL (>= 3),NA,no,3.5.0
+assertive.matrices,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0-2,NA,GPL (>= 3),NA,no,3.5.0
+assertive.models,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0-2,NA,GPL (>= 3),NA,no,3.5.1
+assertive.numbers,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0-2,NA,GPL (>= 3),NA,no,3.5.0
+assertive.properties,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0-4,NA,GPL (>= 3),NA,no,3.5.0
+assertive.reflection,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0-4,NA,GPL (>= 3),NA,no,3.5.0
+assertive.sets,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0-3,NA,GPL (>= 3),NA,no,3.5.0
+assertive.strings,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0-3,NA,GPL (>= 3),NA,no,3.5.0
+assertive.types,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0-3,NA,GPL (>= 3),NA,no,3.5.0
+assertthat,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.0,NA,GPL-3,NA,no,3.5.0
+attempt,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.1,NA,MIT + file LICENSE,NA,no,3.5.1
+autoplotly,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.2,NA,GPL-2,NA,no,3.5.0
+aws.iam,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.7,NA,GPL (>= 2),NA,no,3.5.0
+aws.s3,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.12,NA,GPL (>= 2),NA,no,3.5.0
+aws.signature,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.4,NA,GPL (>= 2),NA,no,3.5.0
+babynames,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.0,NA,CC0,NA,no,3.5.0
+backports,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.3,NA,GPL-2,NA,yes,3.5.0
+base64enc,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1-3,NA,GPL-2 | GPL-3,NA,yes,3.5.0
+BaSTA,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.9.4,NA,GPL,NA,no,3.5.0
+BayesFactor,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9.12-4.2,NA,GPL-2,NA,yes,3.5.0
+bayesplot,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.6.0,NA,GPL (>= 3),NA,no,3.5.0
+bayess,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4,NA,GPL-2,NA,NA,3.5.0
+bazar,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.10,NA,GPL-3,NA,no,3.5.1
+BDgraph,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.53,NA,GPL (>= 2),NA,yes,3.5.1
+bdsmatrix,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3-3,NA,LGPL-2,NA,yes,3.5.0
+beeswarm,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.3,NA,Artistic-2.0,NA,no,3.5.0
+benchmarkme,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6.0,NA,GPL-2 | GPL-3,NA,no,3.5.0
+benchmarkmeData,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5.1,NA,GPL-2 | GPL-3,NA,no,3.5.0
+BetaBit,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3,NA,GPL-2,NA,no,3.5.0
+BH,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.66.0-1,NA,BSL-1.0,NA,no,3.5.0
+bibtex,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.2,NA,GPL (>= 2),NA,yes,3.5.0
+bigalgebra,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.8.4.1,NA,LGPL-3 | Apache License 2.0,NA,yes,3.5.2
+biganalytics,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.14,NA,LGPL-3 | Apache License 2.0,NA,yes,3.5.0
+biglasso,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3-6,NA,GPL-3,NA,yes,3.5.0
+biglm,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9-1,NA,GPL,NA,yes,3.5.0
+bigmemory,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,4.5.33,NA,LGPL-3 | Apache License 2.0,NA,yes,3.5.0
+bigmemory.sri,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.3,NA,LGPL-3 | Apache License 2.0,NA,no,3.5.0
+bigpca,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1,NA,GPL (>= 2),NA,no,3.4.4
+bigQueryR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.0,NA,MIT + file LICENSE,NA,no,3.5.0
+bigtabulate,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.5,NA,LGPL-3 | Apache License 2.0,NA,yes,3.5.0
+bindr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.1,NA,MIT + file LICENSE,NA,no,3.5.0
+bindrcpp,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.2,NA,MIT + file LICENSE,NA,yes,3.5.0
+binman,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.1,NA,MIT + file LICENSE,NA,no,3.5.0
+binomTools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0-1,NA,GPL (>= 3),NA,NA,3.4.1
+Biobase,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.28.0,NA,Artistic-2.0,NA,yes,3.2.0
+BiocGenerics,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.14.0,NA,Artistic-2.0,NA,no,3.2.0
+BiocInstaller,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.18.5,NA,Artistic-2.0,NA,no,3.4.1
+bit,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1-14,NA,GPL-2,NA,yes,3.5.0
+bit64,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9-7,NA,GPL-2,NA,yes,3.5.0
+bitops,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0-6,NA,GPL (>= 2),NA,yes,3.5.0
+blme,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0-4,NA,GPL (>= 2),NA,no,3.5.0
+blob,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.1,NA,GPL-3,NA,no,3.5.0
+blogdown,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9,NA,GPL-3,NA,no,3.5.0
+blscrapeR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.1.3,NA,MIT + file LICENSE,NA,no,3.5.0
+bmp,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3,NA,GPL (>= 2),NA,no,3.5.0
+bookdown,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9,NA,GPL-3,NA,no,3.5.2
+Boom,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.8,NA,LGPL-2.1 | file LICENSE,NA,yes,3.5.0
+BoomSpikeSlab,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.0,NA,LGPL-2.1 | file LICENSE,NA,yes,3.5.0
+boot,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3-20,recommended,Unlimited,NA,no,3.5.0
+bootstrap,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2017.2,NA,BSD_3_clause + file LICENSE,NA,yes,3.5.0
+BradleyTerry2,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0-8,NA,GPL (>= 2),NA,no,3.5.0
+brew,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0-6,NA,GPL-2,NA,NA,3.5.0
+brglm,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6.1,NA,GPL (>= 2),NA,yes,3.5.0
+bridgesampling,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6-0,NA,GPL (>= 2),NA,no,3.5.0
+brms,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.7.0,NA,GPL (>= 3),NA,no,3.5.0
+Brobdingnag,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2-6,NA,GPL,NA,no,3.5.1
+broom,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5.1,NA,MIT + file LICENSE,NA,no,3.5.1
+broom.mixed,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.3,NA,GPL-3,NA,no,3.5.2
+bsts,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.8.0,NA,LGPL-2.1 | file LICENSE,NA,yes,3.5.0
+BWStest,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.2,NA,LGPL-3,NA,yes,3.5.2
+ca,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.71,NA,GPL,NA,no,3.5.0
+cairoDevice,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.25,NA,GPL,NA,yes,3.5.0
+callr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.1.1,NA,MIT + file LICENSE,NA,no,3.5.2
+car,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.0-2,NA,GPL (>= 2),NA,no,3.5.1
+carData,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.0-2,NA,GPL (>= 2),NA,no,3.5.0
+caret,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,6.0-81,NA,GPL (>= 2),NA,yes,3.5.0
+caretEnsemble,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0.0,NA,MIT + file LICENSE,NA,no,3.5.0
+caTools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.17.1.1,NA,GPL-3,NA,yes,3.5.0
+catsplainr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1,NA,MIT + file LICENSE,NA,NA,3.2.4
+CausalImpact,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.3,NA,Apache License 2.0 | file LICENSE,NA,no,3.5.0
+cba,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2-19,NA,GPL-2,NA,yes,3.5.0
+CCP,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1,NA,GPL,NA,NA,3.5.0
+cellranger,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.0,NA,MIT + file LICENSE,NA,no,3.5.0
+changes,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0.0.1,NA,GPL-2,NA,NA,3.4.3
+checkmate,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.8.5,NA,BSD_3_clause + file LICENSE,NA,yes,3.5.0
+checkpoint,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.5,NA,GPL-2,NA,no,3.5.1
+chron,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.3-53,NA,GPL-2,NA,yes,3.5.0
+class,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,7.3-14,recommended,GPL-2 | GPL-3,NA,yes,3.5.0
+classInt,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3-1,NA,GPL (>= 2),NA,yes,3.5.0
+cli,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.1,NA,MIT + file LICENSE,NA,no,3.5.1
+clipr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.1,NA,GPL-3,NA,no,3.5.0
+clisymbols,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.0,NA,MIT + file LICENSE,NA,no,3.5.1
+clue,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3-56,NA,GPL-2,NA,yes,3.5.1
+CluMix,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.1,NA,GPL (>= 2),NA,no,3.5.0
+cluster,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0.7-1,recommended,GPL (>= 2),NA,yes,3.5.0
+clusterfly,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4,NA,MIT + file LICENSE,NA,no,3.5.0
+clusteval,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1,NA,MIT,NA,NA,3.5.0
+clustMixType,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1-36,NA,GPL (>= 2),NA,no,3.5.1
+ClustOfVar,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1,NA,GPL (>= 2.0),NA,no,3.5.0
+cmprsk,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.2-7,NA,GPL (>= 2),NA,yes,3.5.0
+coda,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.19-2,NA,GPL (>= 2),NA,no,3.5.0
+codetools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2-16,recommended,GPL,NA,no,3.5.2
+coin,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2-2,NA,GPL-2,NA,yes,3.5.0
+colorRamps,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.3,NA,GPL,NA,NA,3.5.0
+colorspace,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3-2,NA,BSD_3_clause + file LICENSE,NA,yes,3.5.0
+colourpicker,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0,NA,MIT + file LICENSE,NA,no,3.5.0
+combinat,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0-8,NA,GPL-2,NA,NA,3.5.0
+commonmark,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.7,NA,BSD_2_clause + file LICENSE,NA,yes,3.5.1
+compare,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2-6,NA,GPL (>= 2),NA,no,3.5.0
+comparison,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0-4,NA,GPL-2,NA,no,3.5.0
+complainr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1,NA,MIT + file LICENSE,NA,NA,3.2.4
+config,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3,NA,GPL-3,NA,no,3.5.0
+contfrac,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1-12,NA,GPL-2,NA,yes,3.5.0
+CORElearn,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.53.1,NA,GPL-3,NA,yes,3.5.0
+corpcor,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.6.9,NA,GPL (>= 3),NA,no,3.5.0
+corrplot,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.84,NA,GPL,NA,no,3.5.0
+corrr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.0,NA,MIT + file LICENSE,NA,no,3.5.1
+couchDB,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4.1,NA,AGPL-3,NA,no,3.5.0
+countrycode,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.0,NA,GPL-3,NA,no,3.5.0
+covr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.2.1,NA,GPL-3,NA,yes,3.5.1
+cowplot,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9.3,NA,GPL-2,NA,no,3.5.0
+cowsay,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.7.0,NA,MIT + file LICENSE,NA,no,3.5.0
+crayon,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3.4,NA,MIT + file LICENSE,NA,no,3.5.0
+crosstalk,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.0,NA,MIT + file LICENSE,NA,no,3.5.0
+crul,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6.0,NA,MIT + file LICENSE,NA,no,3.5.0
+cubature,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0.3,NA,GPL-3,NA,yes,3.5.0
+Cubist,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.2,NA,GPL-3,NA,yes,3.5.0
+curl,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.2,NA,MIT + file LICENSE,NA,yes,3.5.0
+CVST,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2-2,NA,GPL (>= 2.0),NA,no,3.5.0
+d3Network,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5.2.1,NA,GPL (>= 3),NA,no,3.5.0
+d3scatter,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.0,NA,GPL (>=3),NA,NA,3.4.3
+Daim,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.0,NA,GPL-2,NA,yes,3.5.0
+data.table,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.11.8,NA,MPL-2.0 | file LICENSE,NA,yes,3.5.0
+dataPreparation,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.8,NA,GPL-3 | file LICENSE,NA,no,3.5.1
+date,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2-38,NA,GPL-2,NA,yes,3.5.0
+DBI,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.0,NA,LGPL (>= 2),NA,no,3.5.0
+dbplyr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.2,NA,MIT + file LICENSE,NA,no,3.5.0
+ddalpha,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3.7,NA,GPL-2,NA,yes,3.5.0
+debug,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3.1,NA,GPL (>= 2),NA,NA,3.4.1
+debugme,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.0,NA,MIT + file LICENSE,NA,no,3.5.0
+deldir,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1-15,NA,GPL (>= 2),NA,yes,3.5.1
+dendextend,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.9.0,NA,GPL-2 | GPL-3,NA,no,3.5.1
+DEoptimR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0-8,NA,GPL (>= 2),NA,no,3.5.0
+desc,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.0,NA,MIT + file LICENSE,NA,no,3.5.0
+descriptr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.1,NA,MIT + file LICENSE,NA,no,3.5.0
+DescTools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.99.26,NA,GPL (>= 2),NA,yes,3.5.1
+deSolve,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.21,NA,GPL (>= 2),NA,yes,3.5.0
+devtools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0.1,NA,GPL (>= 2),NA,no,3.5.1
+dials,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0.2,NA,GPL-2,NA,no,3.5.0
+dichromat,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0-0,NA,GPL-2,NA,NA,3.5.0
+digest,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6.18,NA,GPL (>= 2),NA,yes,3.5.0
+dimRed,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.2,NA,GPL-3 | file LICENSE,NA,yes,3.5.1
+diptest,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.75-7,NA,GPL (>= 2),NA,yes,3.5.0
+directlabels,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2018.05.22,NA,GPL-3,NA,no,3.5.0
+dismo,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1-4,NA,GPL (>= 3),NA,yes,3.5.0
+DMwR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.1,NA,GPL (>= 2),NA,no,3.5.0
+doFuture,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6.0,NA,LGPL (>= 2.1),NA,no,3.5.1
+doParallel,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.14,NA,GPL-2,NA,no,3.5.1
+doRNG,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.7.1,NA,GPL (>= 2),NA,no,3.5.0
+dotCall64,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0-0,NA,GPL (>= 2),NA,yes,3.5.1
+dplyr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.7.8,NA,MIT + file LICENSE,NA,yes,3.5.1
+DRR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0.3,NA,GPL-3 | file LICENSE,NA,no,3.5.0
+DT,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5,NA,GPL-3 | file LICENSE,NA,no,3.5.1
+dtplyr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0.2,NA,GPL (>= 2),NA,no,3.5.0
+dtt,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1-2,NA,GPL (>= 2),NA,no,3.5.0
+dummies,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.5.6,NA,GPL (>= 2),NA,NA,3.5.0
+dummy,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.3,NA,GPL (>= 2),NA,no,3.5.0
+dygraphs,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.1.6,NA,MIT + file LICENSE,NA,no,3.5.0
+dynamicTreeCut,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.63-1,NA,GPL (>= 2),NA,no,3.5.0
+e1071,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.7-0,NA,GPL-2,NA,yes,3.5.1
+EBImage,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,4.10.1,NA,LGPL,NA,yes,3.2.1
+effects,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,4.1-0,NA,GPL (>= 2),NA,no,3.5.1
+effsize,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.7.4,NA,GPL-2,NA,no,3.5.2
+egg,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.2,NA,GPL-3,NA,no,3.5.1
+elastic,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.8.4,NA,MIT + file LICENSE,NA,no,3.5.0
+elasticnet,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.1,NA,GPL (>= 2),NA,no,3.5.1
+ElemStatLearn,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2015.6.26,NA,GPL (>= 2),NA,no,3.5.0
+ellipse,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.1,NA,GPL (>= 2),NA,no,3.5.0
+elliptic,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3-9,NA,GPL-2,NA,no,3.5.0
+emmeans,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3.1,NA,GPL-2 | GPL-3,NA,no,3.5.0
+EMT,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1,NA,GPL,NA,NA,3.5.0
+enc,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.0,NA,GPL-3,NA,yes,3.5.1
+english,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1-4,NA,GPL-2,NA,no,3.5.0
+eply,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.2,NA,GPL-3,NA,no,3.5.0
+estimability,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3,NA,GPL (>= 3),NA,no,3.5.0
+evaluate,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.12,NA,MIT + file LICENSE,NA,no,3.5.0
+evir,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.7-4,NA,GPL (>= 2),NA,no,3.5.0
+Exact,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.7,NA,GPL-2,NA,no,3.5.0
+exact2x2,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.6.3,NA,GPL-3,NA,no,3.5.2
+exactci,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3-3,NA,GPL-3,NA,no,3.5.2
+expint,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1-5,NA,GPL (>= 2),NA,yes,3.5.0
+explainr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1,NA,MIT + file LICENSE,NA,NA,3.2.4
+expm,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.999-3,NA,GPL (>= 2),NA,yes,3.5.1
+extracat,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.7-6,NA,GPL (>= 2),NA,yes,3.5.0
+extrafont,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.17,NA,GPL-2,NA,no,3.5.0
+extrafontdb,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0,NA,GPL-2,NA,NA,3.5.0
+FactoMineR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.41,NA,GPL (>= 2),NA,no,3.5.0
+fakeR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0,NA,CC0,NA,no,3.5.0
+fansi,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.0,NA,GPL (>= 2),NA,yes,3.5.0
+faraway,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.7,NA,GPL,NA,no,3.5.0
+farver,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.0,NA,MIT + file LICENSE,NA,yes,3.5.0
+fastmatch,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1-0,NA,GPL-2,NA,yes,3.5.0
+fastTextR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0,NA,BSD_3_clause + file LICENSE,NA,yes,3.5.0
+fBasics,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3042.89,NA,GPL (>= 2),NA,yes,3.5.0
+FD,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0-12,NA,GPL-2,NA,yes,3.5.0
+fdrtool,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.15,NA,GPL (>= 3),NA,yes,3.5.0
+feather,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.1,NA,Apache License 2.0,NA,yes,3.5.0
+feature,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.13,NA,GPL-2 | GPL-3,NA,no,3.5.0
+features,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2015.12-1,NA,GPL (>= 2),NA,no,3.5.0
+ff,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.2-14,NA,GPL-2 | file LICENSE,NA,yes,3.5.0
+fftwtools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9-8,NA,GPL (>= 2),NA,yes,3.5.0
+fields,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,9.6,NA,GPL (>= 2),NA,yes,3.5.0
+fit.models,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5-14,NA,GPL,NA,no,3.5.2
+flashClust,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.01-2,NA,GPL (>= 2),NA,NA,3.5.0
+flexdashboard,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5.1.1,NA,MIT + file LICENSE,NA,no,3.5.0
+flexmix,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.3-14,NA,GPL (>= 2),NA,no,3.5.0
+flextable,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.6,NA,GPL-3,NA,no,3.5.1
+FNN,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.2.2,NA,GPL (>= 2),NA,yes,3.5.0
+forcats,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.0,NA,GPL-3,NA,no,3.5.0
+foreach,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4.4,NA,Apache License (== 2.0),NA,no,3.5.0
+forecast,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,8.4,NA,GPL-3,NA,yes,3.5.0
+foreign,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.8-71,recommended,GPL (>= 2),NA,yes,3.5.0
+forge,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.0,NA,Apache License (>= 2.0),NA,no,3.5.1
+formatR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.5,NA,GPL,NA,no,3.5.0
+Formula,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2-3,NA,GPL-2 | GPL-3,NA,no,3.5.0
+fortunes,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.5-4,NA,GPL-2 | GPL-3,NA,no,3.5.0
+fpc,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.1-11.1,NA,GPL,NA,no,3.5.0
+fracdiff,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4-2,NA,GPL (>= 2),NA,NA,3.5.0
+fs,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.6,NA,GPL-3,NA,yes,3.5.1
+functional,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6,NA,GPL (>= 2),NA,no,3.5.0
+furniture,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.8.7,NA,GPL-3,NA,no,3.5.1
+furrr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.0,NA,LGPL (>= 2.1),NA,no,3.5.0
+future,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.10.0,NA,LGPL (>= 2.1),NA,no,3.5.0
+fuzzyjoin,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.4,NA,MIT + file LICENSE,NA,no,3.5.0
+GAMBoost,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2-3,NA,GPL (>= 2),NA,yes,3.5.0
+gapminder,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.0,NA,CC0,NA,no,3.5.0
+gargle,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0.0.9000,NA,MIT + file LICENSE,NA,NA,3.5.0
+gbm,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.1.4,NA,GPL (>= 2) | file LICENSE,NA,yes,3.5.1
+gclus,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3.1,NA,GPL (>= 2),NA,NA,3.5.0
+gdata,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.18.0,NA,GPL-2,NA,no,3.5.0
+gdtools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.7,NA,GPL-3 | file LICENSE,NA,yes,3.5.0
+geepack,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2-1,NA,GPL (>= 3),NA,yes,3.5.0
+gender,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5.2,NA,MIT + file LICENSE,NA,no,3.5.0
+generics,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0.2,NA,GPL-2,NA,no,3.5.1
+GenomeInfoDb,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4.2,NA,Artistic-2.0,NA,no,3.2.1
+geofacet,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.9,NA,MIT + file LICENSE,NA,no,3.5.0
+geogrid,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.1,NA,MIT + file LICENSE,NA,yes,3.5.0
+geojson,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.0,NA,MIT + file LICENSE,NA,no,3.5.0
+geojsonio,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6.0,NA,MIT + file LICENSE,NA,no,3.5.0
+geometry,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3-6,NA,GPL (>= 3) + file LICENSE,NA,yes,3.5.0
+geonames,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.998,NA,GPL-3,NA,no,3.5.0
+geoR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.7-5.2.1,NA,GPL (>= 2),NA,yes,3.5.0
+geoRglm,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9-11,NA,GPL (>= 2),NA,yes,3.5.0
+geosphere,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.5-7,NA,GPL (>= 3),NA,yes,3.5.0
+GGally,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4.0,NA,GPL (>= 2.0),NA,no,3.5.0
+gganimate,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9.9.9999,NA,MIT + file LICENSE,NA,NA,3.5.0
+ggbeeswarm,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6.0,NA,GPL (>= 2),NA,no,3.5.0
+ggcorrplot,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.2,NA,GPL-2,NA,no,3.5.0
+ggdendro,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1-20,NA,GPL-2 | GPL-3,NA,no,3.5.0
+ggeffects,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.7.0,NA,GPL-3,NA,no,3.5.1
+ggExtra,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.8,NA,MIT + file LICENSE,NA,no,3.5.2
+ggforce,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.3,NA,GPL (>= 2),NA,yes,3.5.1
+ggformula,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9.0,NA,MIT + file LICENSE,NA,no,3.5.0
+ggfortify,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.5,NA,GPL-2,NA,no,3.5.0
+gghighlight,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.0,NA,MIT + file LICENSE,NA,no,3.5.1
+ggjoy,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.1,NA,GPL-2 | file LICENSE,NA,no,3.5.0
+ggm,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.3,NA,GPL (>= 2),NA,no,3.5.0
+ggmap,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.6.1,NA,GPL-2,NA,no,3.5.0
+ggplot2,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.1.0,NA,GPL-2 | file LICENSE,NA,no,3.5.1
+ggpomological,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.2,NA,CC0,NA,NA,3.5.0
+ggraph,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.2,NA,GPL-3,NA,yes,3.5.1
+ggrepel,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.8.0,NA,GPL-3 | file LICENSE,NA,yes,3.5.0
+ggridges,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5.1,NA,GPL-2 | file LICENSE,NA,no,3.5.1
+ggsignif,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.0,NA,GPL-3,NA,no,3.5.2
+ggstance,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.1,NA,GPL-3,NA,no,3.5.0
+ggstatsplot,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0.7,NA,GPL-3 | file LICENSE,NA,no,3.5.1
+ggtech,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1,NA,GPL,NA,NA,3.2.4
+ggThemeAssist,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.5,NA,GPL-3,NA,no,3.5.0
+ggthemes,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,4.0.1,NA,GPL-2,NA,no,3.5.1
+ggvis,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.4,NA,GPL-2 | file LICENSE,NA,no,3.5.0
+gh,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.1,NA,MIT + file LICENSE,NA,no,3.5.1
+ghit,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.18,NA,MIT + file LICENSE,NA,no,3.5.0
+gifski,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.8.6,NA,MIT + file LICENSE,NA,yes,3.5.1
+gistr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.2,NA,MIT + file LICENSE,NA,no,3.5.0
+git2r,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.23.0,NA,GPL-2,NA,yes,3.5.0
+glasso,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.10,NA,GPL-2,NA,yes,3.5.0
+glmmTMB,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.2.0,NA,AGPL-3,NA,yes,3.5.0
+glmnet,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0-16,NA,GPL-2,NA,yes,3.5.0
+globals,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.12.4,NA,LGPL (>= 2.1),NA,no,3.5.1
+glue,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3.0,NA,MIT + file LICENSE,NA,yes,3.5.0
+gmodels,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.18.1,NA,GPL-2,NA,no,3.5.1
+gmp,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5-13.2,NA,GPL,NA,yes,3.5.1
+gnm,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1-0,NA,GPL-2 | GPL-3,NA,yes,3.5.2
+googleAnalyticsR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6.0,NA,MIT + file LICENSE,NA,no,3.5.2
+googleAuthR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.7.0,NA,MIT + file LICENSE,NA,no,3.5.1
+googleCloudStorageR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.0,NA,MIT + file LICENSE,NA,no,3.5.0
+googledrive,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.2,NA,MIT + file LICENSE,NA,no,3.5.0
+googlePolylines,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.7.2,NA,GPL-3,NA,yes,3.5.1
+googlesheets,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.0,NA,MIT + file LICENSE,NA,no,3.5.0
+googleVis,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6.3,NA,GPL (>= 2),NA,no,3.5.1
+googleway,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.7.1,NA,GPL-3,NA,no,3.5.1
+gower,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.2,NA,GPL-3,NA,yes,3.5.0
+GPArotation,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2014.11-1,NA,GPL (>= 2) | file LICENSE,NA,no,3.5.2
+gplots,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.0.1,NA,GPL-2,NA,no,3.5.0
+gridBase,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4-7,NA,GPL,NA,no,3.5.0
+gridExtra,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.3,NA,GPL (>= 2),NA,no,3.5.0
+groupedstats,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0.4,NA,GPL-3 | file LICENSE,NA,no,3.5.2
+gss,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.1-9,NA,GPL (>= 2),NA,yes,3.5.0
+gstat,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1-6,NA,GPL (>= 2.0),NA,yes,3.5.0
+gsubfn,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.7,NA,GPL (>= 2),NA,no,3.5.0
+gtable,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.0,NA,GPL-2,NA,no,3.5.0
+gtfsr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.0,NA,GPL,NA,NA,3.3.0
+gtools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.8.1,NA,GPL-2,NA,yes,3.5.0
+gWidgets,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0-54,NA,GPL (>= 2),NA,no,3.5.0
+gWidgetsRGtk2,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0-86,NA,GPL (>= 2),NA,no,3.5.0
+h2o,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.20.0.8,NA,Apache License (== 2.0),NA,no,3.5.2
+hash,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.2.6,NA,GPL (>= 2),NA,no,3.5.0
+hashr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.0,NA,GPL-3,NA,yes,3.5.0
+haven,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0.0,NA,MIT + file LICENSE,NA,yes,3.5.1
+heatmaply,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.15.2,NA,GPL-2 | GPL-3,NA,no,3.5.1
+here,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1,NA,GPL-3,NA,no,3.5.0
+hexbin,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.27.2,NA,GPL-2,NA,yes,3.5.0
+HIBPwned,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.7,NA,MIT + file LICENSE,NA,no,3.5.0
+highcharter,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5.0,NA,MIT + file LICENSE,NA,no,3.5.0
+highlight,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.7.2,NA,GPL (>= 3),NA,yes,3.5.0
+highr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.7,NA,GPL,NA,no,3.5.0
+HistData,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.8-4,NA,GPL,NA,no,3.5.0
+Hmisc,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,4.1-1,NA,GPL (>= 2),NA,yes,3.5.0
+hms,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.2,NA,GPL-3,NA,no,3.5.0
+hrbraddins,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.1,NA,MIT + file LICENSE,NA,NA,3.4.0
+htmlTable,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.12,NA,GPL (>= 3),NA,no,3.5.0
+htmltools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.6,NA,GPL (>= 2),NA,yes,3.5.0
+htmlwidgets,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3,NA,MIT + file LICENSE,NA,no,3.5.0
+httpcode,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.0,NA,MIT + file LICENSE,NA,no,3.5.0
+httpuv,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4.5.1,NA,GPL (>= 2) | file LICENSE,NA,yes,3.5.2
+httr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4.0,NA,MIT + file LICENSE,NA,no,3.5.0
+huge,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.7,NA,GPL-2,NA,yes,3.5.0
+humanFormat,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0,NA,MIT + file LICENSE,NA,no,3.5.0
+hunspell,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.0,NA,GPL-2 | LGPL-2.1 | MPL-1.1,NA,yes,3.5.0
+hypergeo,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2-13,NA,GPL-2,NA,no,3.5.0
+igraph,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.2,NA,GPL (>= 2),NA,yes,3.5.1
+imguR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.3,NA,GPL-3,NA,no,3.5.0
+impute,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.42.0,NA,GPL-2,NA,yes,3.2.0
+infer,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.0,NA,CC0,NA,no,3.5.1
+ini,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.1,NA,GPL-3,NA,no,3.5.1
+inline,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.15,NA,LGPL,NA,no,3.5.0
+installr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.21.0,NA,GPL-2,NA,no,3.5.0
+intervals,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.15.1,NA,Artistic-2.0,NA,yes,3.5.0
+inum,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0-0,NA,GPL-2,NA,no,3.5.0
+ipred,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9-8,NA,GPL (>= 2),NA,yes,3.5.1
+IRanges,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.2.7,NA,Artistic-2.0,NA,yes,3.2.1
+irlba,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.3.2,NA,GPL-3,NA,yes,3.5.0
+ISLR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2,NA,GPL-2,NA,no,3.5.0
+ISOcodes,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2018.06.29,NA,GPL-2,NA,no,3.5.0
+isotone,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1-0,NA,GPL-2,NA,yes,3.5.0
+iterators,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.10,NA,Apache License (== 2.0),NA,no,3.5.1
+itertools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1-3,NA,GPL-2,NA,no,3.5.0
+janeaustenr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.5,NA,MIT + file LICENSE,NA,no,3.5.0
+janitor,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.1,NA,MIT + file LICENSE,NA,no,3.5.1
+jcolors,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0.3,NA,GPL-2,NA,no,3.5.2
+jmv,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9.6,NA,GPL (>= 2),NA,no,3.5.2
+jmvcore,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9.5.2,NA,GPL (>= 2),NA,no,3.5.2
+jomo,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.6-5,NA,GPL-2,NA,yes,3.5.1
+jpeg,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1-8,NA,GPL-2 | GPL-3,NA,yes,3.5.0
+jqr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.0,NA,MIT + file LICENSE,NA,yes,3.5.0
+jsonlite,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.6,NA,MIT + file LICENSE,NA,yes,3.5.0
+kableExtra,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9.0,NA,MIT + file LICENSE,NA,no,3.5.0
+keras,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.2.4,NA,MIT + file LICENSE,NA,no,3.5.1
+kergp,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.0,NA,GPL-3,NA,yes,3.5.0
+kernlab,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9-27,NA,GPL-2,NA,yes,3.5.1
+KernSmooth,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.23-15,recommended,Unlimited,NA,yes,3.4.2
+kimisc,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4,NA,GPL-3,NA,no,3.5.1
+kknn,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3.1,NA,GPL (>= 2),NA,yes,3.5.0
+klaR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6-14,NA,GPL-2,NA,no,3.5.1
+knitcitations,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.8,NA,MIT + file LICENSE,NA,no,3.5.0
+knitr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.21,NA,GPL,NA,no,3.5.0
+ks,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.11.3,NA,GPL-2 | GPL-3,NA,yes,3.5.1
+kSamples,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2-8,NA,GPL (>= 2),NA,yes,3.5.2
+labeling,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3,NA,MIT + file LICENSE | Unlimited,NA,no,3.5.0
+labelled,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0.1,NA,GPL-3,NA,no,3.5.0
+Lahman,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,6.0-0,NA,GPL,NA,no,3.5.0
+lars,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2,NA,GPL-2,NA,yes,3.5.0
+later,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.7.5,NA,GPL (>= 2),NA,yes,3.5.0
+lattice,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.20-38,recommended,GPL (>= 2),NA,yes,3.5.1
+latticeExtra,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6-28,NA,GPL (>= 2),NA,no,3.5.0
+lava,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.6.4,NA,GPL-3,NA,no,3.5.0
+lavaan,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6-3,NA,GPL (>= 2),NA,no,3.5.1
+lazyeval,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.1,NA,GPL-3,NA,yes,3.5.0
+ldatuning,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.0,NA,BSD_2_clause + file LICENSE,NA,no,3.5.0
+leaflet,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0.2,NA,GPL-3,NA,no,3.5.1
+leafletR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4-0,NA,GPL (>= 2),NA,no,3.5.0
+leaps,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.0,NA,GPL (>= 2),NA,yes,3.5.0
+LearnBayes,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.15.1,NA,GPL (>= 2),NA,no,3.5.0
+lexicon,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.3,NA,GPL-3,NA,no,3.5.1
+libcoin,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0-2,NA,GPL-2,NA,yes,3.5.0
+likert,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3.5,NA,GPL,NA,no,3.5.0
+limma,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.24.15,NA,GPL (>=2),NA,yes,3.4.1
+lintr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.3,NA,MIT + file LICENSE,NA,no,3.5.1
+listenv,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.7.0,NA,LGPL (>= 2.1),NA,no,3.5.0
+lme4,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1-19,NA,GPL (>= 2),NA,yes,3.5.1
+lmerTest,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.0-1,NA,GPL (>= 2),NA,no,3.5.0
+lmtest,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9-36,NA,GPL-2 | GPL-3,NA,yes,3.5.0
+loa,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.44.2,NA,GPL (>= 2),NA,no,3.5.1
+lobstr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.1,NA,GPL-3,NA,yes,3.5.2
+locfit,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.5-9.1,NA,GPL (>= 2),NA,yes,3.5.0
+lokern,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1-8,NA,GPL (>= 2),NA,yes,3.5.0
+loo,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0.0,NA,GPL (>= 3),NA,no,3.5.0
+lpSolve,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,5.6.13,NA,LGPL-2,NA,yes,3.5.0
+lsmeans,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.30-0,NA,GPL-2 | GPL-3,NA,no,3.5.1
+LSMonteCarlo,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0,NA,GPL-3,NA,no,3.5.0
+ltsa,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4.6,NA,GPL (>= 2),NA,yes,3.5.0
+lubridate,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.7.4,NA,GPL (>= 2),NA,yes,3.5.0
+lvplot,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.0,NA,GPL (>= 2),NA,no,3.5.1
+magic,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.5-9,NA,GPL-2,NA,no,3.5.1
+magick,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0,NA,MIT + file LICENSE,NA,yes,3.5.0
+magrittr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.5,NA,MIT + file LICENSE,NA,no,3.5.0
+manipulate,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.1,NA,GPL-2,NA,no,3.5.0
+manipulateWidget,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.10.0,NA,GPL (>= 2) | file LICENSE,NA,no,3.5.0
+mansplainr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1,NA,MIT + file LICENSE,NA,NA,3.2.4
+mapdata,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.3.0,NA,GPL-2,NA,yes,3.5.0
+mapplots,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.5.1,NA,GPL (>= 2),NA,no,3.5.0
+mapproj,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.6,NA,Lucent Public License,NA,yes,3.5.0
+maps,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.3.0,NA,GPL-2,NA,yes,3.5.0
+maptools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9-4,NA,GPL (>= 2),NA,yes,3.5.0
+margins,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.23,NA,MIT + file LICENSE,NA,no,3.5.1
+markdown,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9,NA,GPL-2,NA,yes,3.5.0
+markmyassignment,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.8.1,NA,BSD_2_clause + file LICENSE,NA,no,3.5.0
+markovchain,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6.9.12,NA,GPL-2,NA,yes,3.5.1
+marray,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.46.0,NA,LGPL,NA,no,3.4.1
+MASS,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,7.3-51.1,recommended,GPL-2 | GPL-3,NA,yes,3.5.1
+Matching,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,4.9-3,NA,GPL-3,NA,yes,3.5.0
+MatchIt,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.0.2,NA,GPL (>= 2),NA,no,3.5.0
+matlab,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.2,NA,Artistic-2.0,NA,no,3.5.0
+Matrix,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2-15,recommended,GPL (>= 2) | file LICENCE,NA,yes,3.5.1
+matrixcalc,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0-3,NA,GPL (>= 2),NA,NA,3.5.0
+MatrixModels,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4-1,NA,GPL (>= 2),NA,no,3.5.0
+matrixStats,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.54.0,NA,Artistic-2.0,NA,yes,3.5.0
+maxent,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3.3.1,NA,GPL-3,NA,yes,3.5.0
+maxLik,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3-4,NA,GPL (>= 2),NA,no,3.5.0
+mboost,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.9-1,NA,GPL-2,NA,yes,3.5.0
+mc2d,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1-18,NA,GPL (>= 2),NA,no,3.5.2
+mclust,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,5.4.2,NA,GPL (>= 2),NA,yes,3.5.1
+mcmc,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9-5,NA,MIT + file LICENSE,NA,yes,3.5.0
+MCMCpack,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4-4,NA,GPL-3,NA,yes,3.5.1
+mda,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4-10,NA,GPL-2,NA,yes,3.5.0
+meifly,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3,NA,MIT + file LICENSE,NA,no,3.5.0
+memoise,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.0,NA,MIT + file LICENSE,NA,no,3.5.0
+merTools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.1,NA,GPL (>= 2),NA,no,3.5.0
+mgcv,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.8-26,recommended,GPL (>= 2),NA,yes,3.5.0
+mgsub,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.5.0,NA,MIT + file LICENSE,NA,no,3.5.0
+mi,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0,NA,GPL (>= 2),NA,no,3.5.0
+mice,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.3.0,NA,GPL-2 | GPL-3,NA,yes,3.5.0
+microbenchmark,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4-6,NA,BSD_2_clause + file LICENSE,NA,yes,3.5.1
+mime,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6,NA,GPL,NA,yes,3.5.1
+miniUI,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.1.1,NA,GPL-3,NA,no,3.5.0
+minqa,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.4,NA,GPL-2,NA,yes,3.5.0
+MInt,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.1,NA,GPL-2,NA,no,3.5.0
+misc3d,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.8-4,NA,GPL,NA,NA,3.5.0
+miscTools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6-22,NA,GPL (>= 2),NA,no,3.5.0
+missDeaths,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.5,NA,GPL (>= 2),NA,yes,3.5.0
+missForest,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4,NA,GPL (>= 2),NA,no,3.5.0
+MissingDataGUI,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2-5,NA,GPL (>= 2.0),NA,no,3.5.0
+missMDA,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.13,NA,GPL (>= 2),NA,no,3.5.0
+MissMech,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.2,NA,GPL (>= 2),NA,no,3.5.0
+mitml,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3-6,NA,GPL (>= 2),NA,no,3.5.0
+mitools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.3,NA,GPL-2,NA,no,3.5.0
+mixtools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.0,NA,GPL (>= 2),NA,yes,3.5.0
+mlbench,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.1-1,NA,GPL-2,NA,NA,3.5.0
+MLmetrics,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.1,NA,GPL-2,NA,no,3.5.1
+mnormt,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.5-5,NA,GPL-2 | GPL-3,NA,yes,3.5.0
+modeest,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.3.2,NA,GPL-3,NA,no,3.5.1
+ModelMetrics,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.2,NA,GPL (>= 2),NA,yes,3.5.1
+modelr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.2,NA,GPL-3,NA,no,3.5.0
+modeltools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2-22,NA,GPL-2,NA,no,3.5.0
+monkeylearn,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.0,NA,GPL (>= 2),NA,no,3.5.0
+mosaic,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4.0,NA,GPL (>= 2),NA,no,3.5.1
+mosaicCore,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6.0,NA,GPL (>= 2),NA,no,3.5.0
+mosaicData,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.17.0,NA,GPL (>= 2),NA,no,3.5.0
+msm,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.6.6,NA,GPL (>= 2),NA,yes,3.5.0
+MTurkR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.8.0,NA,GPL-2,NA,no,3.5.0
+MTurkRGUI,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.5,NA,GPL-2,NA,no,3.5.0
+multcomp,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4-8,NA,GPL-2,NA,no,3.5.0
+multcompView,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1-7,NA,GPL,NA,no,3.5.2
+multicool,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1-10,NA,GPL-2,NA,yes,3.5.0
+MuMIn,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.42.1,NA,GPL-2,NA,no,3.5.0
+munsell,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5.0,NA,MIT + file LICENSE,NA,no,3.5.0
+mvbutils,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.8.232,NA,GPL (>= 2),NA,no,3.5.0
+mvnormtest,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1-9,NA,GPL,NA,NA,3.5.2
+mvtboost,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5.0,NA,GPL (>= 2) | file LICENSE,NA,no,3.5.0
+mvtnorm,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0-8,NA,GPL-2,NA,yes,3.5.0
+naniar,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.1,NA,MIT + file LICENSE,NA,no,3.5.0
+NbClust,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.0,NA,GPL-2,NA,no,3.5.0
+NCmisc,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.6,NA,GPL (>= 2),NA,no,3.5.1
+ncvreg,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.11-0,NA,GPL-3,NA,yes,3.5.0
+network,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.13.0.1,NA,GPL (>= 2),NA,yes,3.5.0
+nFactors,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.3.3,NA,GPL (>= 2),NA,NA,3.5.0
+ngram,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.0.4,NA,BSD 2-clause License + file LICENSE,NA,yes,3.5.0
+nleqslv,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.3.2,NA,GPL (>= 2),NA,yes,3.5.0
+nlme,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.1-137,recommended,GPL (>= 2) | file LICENCE,NA,yes,3.5.0
+nloptr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.1,NA,LGPL-3,NA,yes,3.5.1
+NLP,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2-0,NA,GPL-3,NA,no,3.5.1
+NMF,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.21.0,NA,GPL (>= 2),NA,yes,3.5.0
+nnet,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,7.3-12,recommended,GPL-2 | GPL-3,NA,yes,3.5.0
+nnls,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4,NA,GPL (>= 2),NA,NA,3.5.0
+NoiseFiltersR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.0,NA,GPL-3,NA,no,3.5.0
+numDeriv,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2016.8-1,NA,GPL-2,NA,no,3.5.0
+OceanView,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.4,NA,GPL (>= 3.0),NA,yes,3.5.0
+odeintr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.7.1,NA,GPL (>= 2),NA,yes,3.5.0
+officer,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.2,NA,GPL-3,NA,yes,3.5.0
+oldbookdown,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1,NA,GPL-3,NA,NA,3.3.2
+oompaBase,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.2.6,NA,Apache License (== 2.0),NA,no,3.5.2
+openair,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.6-1,NA,GPL (>= 2),NA,yes,3.5.0
+openNLP,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2-6,NA,GPL-3,NA,no,3.5.0
+openNLPdata,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.5.3-4,NA,GPL-3,NA,no,3.5.0
+openssl,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1,NA,MIT + file LICENSE,NA,yes,3.5.1
+OpenStreetMap,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.3,NA,GPL-2 | file LICENCE,NA,no,3.5.0
+openxlsx,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,4.1.0,NA,MIT + file LICENSE,NA,yes,3.5.0
+ordinal,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2018.8-25,NA,GPL (>= 2),NA,yes,3.5.1
+oro.dicom,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5.0,NA,BSD_3_clause + file LICENSE,NA,no,3.5.0
+oro.nifti,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9.1,NA,BSD_3_clause + file LICENSE,NA,no,3.5.0
+outliers,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.14,NA,GPL (>= 2),NA,NA,3.5.0
+packrat,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5.0,NA,GPL-2,NA,no,3.5.1
+pacman,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5.0,NA,GPL-2,NA,no,3.5.1
+paletteer,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.0,NA,GPL-3,NA,no,3.5.2
+palr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0.6,NA,GPL-3,NA,no,3.5.2
+pals,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.5,NA,GPL-3,NA,no,3.5.2
+pan,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.6,NA,GPL-3,NA,yes,3.5.0
+pander,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6.3,NA,AGPL-3 | file LICENSE,NA,yes,3.5.2
+parsnip,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0.1,NA,GPL-2,NA,no,3.5.1
+party,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3-1,NA,GPL-2,NA,yes,3.5.0
+partykit,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2-2,NA,GPL-2 | GPL-3,NA,yes,3.5.0
+patchwork,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0.1,NA,MIT + file LICENSE,NA,NA,3.5.0
+pbapply,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3-4,NA,GPL-2,NA,no,3.5.0
+pbivnorm,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6.0,NA,GPL (>= 2),NA,yes,3.5.0
+pbkrtest,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4-7,NA,GPL (>= 2),NA,no,3.5.0
+PCAmixdata,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.1,NA,GPL (>= 2.0),NA,no,3.5.0
+pcaPP,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.9-73,NA,GPL (>= 3),NA,yes,3.5.2
+pdftools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0,NA,MIT + file LICENSE,NA,yes,3.5.1
+pec,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2018.07.26,NA,GPL (>= 2),NA,yes,3.5.0
+PerformanceAnalytics,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.5.2,NA,GPL-2 | GPL-3,NA,yes,3.5.0
+permute,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9-4,NA,GPL-2,NA,no,3.5.0
+pgmm,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.3,NA,GPL (>= 2),NA,yes,3.5.0
+pillar,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3.1,NA,GPL-3,NA,no,3.5.0
+pixmap,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4-11,NA,GPL-2,NA,NA,3.5.0
+pkgbuild,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.2,NA,GPL-3,NA,no,3.5.0
+pkgconfig,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0.2,NA,MIT + file LICENSE,NA,no,3.5.0
+pkgload,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.2,NA,GPL-3,NA,yes,3.5.0
+pkgmaker,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.27,NA,GPL (>= 2),NA,no,3.5.0
+PKI,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1-5.1,NA,GPL-2 | GPL-3 | file LICENSE,NA,yes,3.5.0
+plogr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.0,NA,MIT + file LICENSE,NA,no,3.5.0
+plot3D,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.1,NA,GPL (>= 3.0),NA,no,3.5.0
+plot3Drgl,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.1,NA,GPL (>= 3.0),NA,no,3.5.0
+plotKML,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5-8,NA,GPL,NA,no,3.5.0
+plotly,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,4.8.0,NA,MIT + file LICENSE,NA,no,3.5.1
+plotrix,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.7-4,NA,GPL (>= 2),NA,no,3.5.0
+pls,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.7-0,NA,GPL-2,NA,no,3.5.0
+plumber,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.6,NA,MIT + file LICENSE,NA,no,3.5.0
+plyr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.8.4,NA,MIT + file LICENSE,NA,yes,3.5.0
+PMCMR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,4.3,NA,GPL (>= 3),NA,no,3.5.2
+PMCMRplus,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4.1,NA,GPL (>= 3),NA,yes,3.5.2
+png,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1-7,NA,GPL-2 | GPL-3,NA,yes,3.5.0
+polspline,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.13,NA,GPL (>= 2),NA,yes,3.5.0
+polycor,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.7-9,NA,GPL (>= 2),NA,no,3.5.0
+PortfolioAnalytics,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.0,NA,GPL-2 | GPL-3,NA,yes,3.5.0
+ppcor,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1,NA,GPL-2,NA,no,3.5.0
+prabclus,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.2-6,NA,GPL,NA,no,3.5.0
+praise,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.0,NA,MIT + file LICENSE,NA,no,3.5.0
+prediction,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.6.1,NA,MIT + file LICENSE,NA,no,3.5.1
+preprosim,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.0,NA,GPL-2,NA,no,3.5.0
+prettydoc,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.1,NA,Apache License (>= 2.0),NA,no,3.5.0
+prettyunits,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.2,NA,MIT + file LICENSE,NA,no,3.5.0
+pROC,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.13.0,NA,GPL (>= 3),NA,yes,3.5.1
+processx,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.2.1,NA,MIT + file LICENSE,NA,yes,3.5.1
+prodlim,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2018.04.18,NA,GPL (>= 2),NA,yes,3.5.0
+profileModel,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5-9,NA,GPL (>= 2),NA,no,3.5.0
+profr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.3,NA,MIT + file LICENSE,NA,no,3.5.1
+proftools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.99-2,NA,GPL,NA,no,3.5.0
+profvis,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.5,NA,GPL-3 | file LICENSE,NA,yes,3.5.0
+progress,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.0,NA,MIT + file LICENSE,NA,no,3.5.0
+ProjectTemplate,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.8.2,NA,Artistic-2.0,NA,no,3.5.0
+promises,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.1,NA,MIT + file LICENSE,NA,yes,3.5.0
+proto,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.0,NA,GPL-2,NA,no,3.5.0
+protolite,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.8,NA,MIT + file LICENSE,NA,yes,3.5.0
+proxy,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4-22,NA,GPL-2,NA,yes,3.5.0
+pryr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.4,NA,GPL-2,NA,yes,3.5.0
+ps,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3.0,NA,BSD_3_clause + file LICENSE,NA,yes,3.5.2
+pscl,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.5.2,NA,GPL-2,NA,yes,3.5.0
+psych,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.8.10,NA,GPL (>= 2),NA,no,3.5.1
+psycho,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.7,NA,MIT + file LICENSE,NA,no,3.5.0
+purrr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.5,NA,GPL-3 | file LICENSE,NA,yes,3.5.0
+purrrlyr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0.3,NA,GPL-3 | file LICENSE,NA,yes,3.5.2
+pwr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2-2,NA,GPL (>= 3),NA,no,3.5.0
+qap,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1-1,NA,GPL-3,NA,yes,3.5.0
+qcc,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.7,NA,GPL (>= 2),NA,no,3.5.0
+qdap,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.3.0,NA,GPL-2,NA,no,3.5.0
+qdapDictionaries,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.7,NA,GPL-2,NA,no,3.5.0
+qdapRegex,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.7.2,NA,GPL-2,NA,no,3.5.0
+qdapTools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3.3,NA,GPL-2,NA,no,3.5.0
+qgraph,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.5,NA,GPL-2,NA,yes,3.5.0
+quadprog,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.5-5,NA,GPL (>= 2),NA,yes,3.5.0
+Quandl,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.9.1,NA,MIT + file LICENSE,NA,no,3.5.1
+quanteda,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3.14,NA,GPL-3,NA,yes,3.5.0
+quantmod,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4-13,NA,GPL-3,NA,no,3.5.0
+quantreg,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,5.38,NA,GPL (>= 2),NA,yes,3.5.0
+questionr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.7.0,NA,GPL (>= 2),NA,no,3.5.1
+qvcalc,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9-1,NA,GPL-2 | GPL-3,NA,no,3.5.0
+R.cache,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.13.0,NA,LGPL (>= 2.1),NA,no,3.5.0
+R.methodsS3,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.7.1,NA,LGPL (>= 2.1),NA,no,3.5.0
+R.oo,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.22.0,NA,LGPL (>= 2.1),NA,no,3.5.0
+R.rsp,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.43.0,NA,LGPL (>= 2.1),NA,no,3.5.1
+R.utils,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.7.0,NA,LGPL (>= 2.1),NA,no,3.5.1
+r2d3,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.3,NA,BSD_3_clause + file LICENSE,NA,no,3.5.2
+R4CouchDB,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.7.5,NA,MIT + file LICENSE,NA,no,3.5.0
+R6,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.3.0,NA,MIT + file LICENSE,NA,no,3.5.0
+radarchart,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.1,NA,MIT + file LICENSE,NA,no,3.5.0
+RandomFields,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.1.50,NA,GPL (>= 3),NA,yes,3.5.0
+RandomFieldsUtils,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.25,NA,GPL (>= 3),NA,yes,3.5.0
+randomForest,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,4.6-14,NA,GPL (>= 2),NA,yes,3.5.0
+ranger,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.10.1,NA,GPL-3,NA,yes,3.5.0
+Rankcluster,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.94,NA,GPL (>= 2),NA,yes,3.5.0
+RANN,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.6,NA,GPL (>= 3),NA,yes,3.5.0
+rappdirs,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.1,NA,MIT + file LICENSE,NA,yes,3.5.0
+raster,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.8-4,NA,GPL (>= 3),NA,yes,3.5.1
+ratelimitr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.1,NA,MIT + file LICENSE,NA,no,3.5.0
+rattle,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,5.2.0,NA,GPL (>= 2),NA,no,3.5.1
+rbokeh,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5.0,NA,MIT + file LICENSE,NA,no,3.5.0
+Rcereal,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.1,NA,BSD_2_clause + file LICENSE,NA,no,3.5.0
+rCharts,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.5,NA,MIT,NA,NA,3.2.1
+rcmdcheck,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3.2,NA,MIT + file LICENSE,NA,no,3.5.0
+RColorBrewer,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1-2,NA,Apache License 2.0,NA,no,3.5.0
+Rcpp,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.0,NA,GPL (>= 2),NA,yes,3.5.1
+RcppArmadillo,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9.200.5.0,NA,GPL (>= 2),NA,yes,3.5.1
+RcppEigen,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.3.5.0,NA,GPL (>= 2) | file LICENSE,NA,yes,3.5.0
+RcppParallel,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,4.4.2,NA,GPL-2,NA,yes,3.5.0
+RcppProgress,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.1,NA,GPL (>= 3),NA,no,3.5.0
+RcppRoll,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.0,NA,GPL (>= 2),NA,yes,3.5.0
+RCurl,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.95-4.11,NA,BSD,NA,yes,3.5.1
+readbitmap,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.5,NA,GPL (>= 2),NA,no,3.5.0
+reader,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.6,NA,GPL (>= 2),NA,no,3.5.0
+readr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3.1,NA,GPL (>= 2) | file LICENSE,NA,yes,3.5.2
+readxl,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.0,NA,GPL-3,NA,yes,3.5.2
+recipes,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.4,NA,GPL-2,NA,no,3.5.0
+RefManageR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.0,NA,GPL-2 | GPL-3 | BSD_3_clause + file LICENSE,NA,no,3.5.0
+registry,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5,NA,GPL-2,NA,no,3.5.0
+regtest,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.05,NA,file LICENSE,NA,NA,3.5.0
+relimp,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0-5,NA,GPL (>= 2),NA,no,3.5.2
+relsurv,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.2-3,NA,GPL,NA,yes,3.5.1
+rematch,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.1,NA,MIT + file LICENSE,NA,no,3.5.0
+rematch2,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0.1,NA,MIT + file LICENSE,NA,no,3.5.0
+remedy,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.0,NA,MIT + file LICENSE,NA,no,3.5.1
+remotes,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0.2,NA,GPL (>= 2),NA,no,3.5.0
+repmis,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5,NA,GPL (>= 3),NA,no,3.5.0
+reports,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.4,NA,GPL-2,NA,no,3.5.0
+represtools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.2,NA,GPL (>= 3),NA,no,3.5.0
+reprex,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.1,NA,MIT + file LICENSE,NA,no,3.5.1
+reshape,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.8.8,NA,MIT + file LICENSE,NA,yes,3.5.1
+reshape2,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4.3,NA,MIT + file LICENSE,NA,yes,3.5.0
+reticulate,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.10,NA,Apache License 2.0,NA,yes,3.5.1
+revealjs,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9,NA,MIT + file LICENSE,NA,no,3.5.0
+rex,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.2,NA,MIT + file LICENSE,NA,no,3.5.0
+rgdal,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3-6,NA,GPL (>= 2),NA,yes,3.5.1
+rgenoud,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,5.8-2.0,NA,GPL-3,NA,yes,3.5.0
+rgeos,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4-2,NA,GPL (>= 2),NA,yes,3.5.1
+rggobi,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.1.22,NA,BSD_3_clause + file LICENSE,NA,yes,3.5.1
+rgl,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.99.16,NA,GPL,NA,yes,3.5.0
+RGoogleAnalytics,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.6,NA,Apache License 2.0,NA,no,3.5.0
+RGoogleAnalyticsPremium,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.1,NA,Apache License 2.0,NA,no,3.5.0
+RgoogleMaps,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4.3,NA,GPL,NA,no,3.5.1
+RGraphics,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0-14,NA,GPL,NA,no,3.5.0
+RGtk2,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.20.35,NA,GPL,NA,yes,3.5.0
+rhdf5,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.12.0,NA,Artistic-2.0,NA,yes,3.2.0
+rio,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5.16,NA,GPL-2,NA,no,3.5.1
+rjags,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,4-8,NA,GPL (== 2),NA,yes,3.5.1
+rJava,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9-10,NA,GPL-2,NA,yes,3.5.0
+RJDBC,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2-7.1,NA,MIT + file LICENSE,NA,no,3.5.0
+rjson,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.20,NA,GPL-2,NA,yes,3.5.0
+RJSONIO,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3-1.1,NA,BSD_3_clause + file LICENSE,NA,yes,3.5.1
+rlang,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.0.1,NA,GPL-3,NA,yes,3.5.1
+rlist,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.6.1,NA,MIT + file LICENSE,NA,no,3.5.0
+rmarkdown,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.11,NA,GPL-3,NA,no,3.5.0
+RMongo,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0.25,NA,GPL-3,NA,no,3.5.0
+Rmpfr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.7-1,NA,GPL (>= 2),NA,yes,3.5.1
+Rmpi,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6-9,NA,GPL (>= 2),NA,yes,3.5.1
+rms,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,5.1-2,NA,GPL (>= 2),NA,yes,3.5.0
+rmsfact,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0.3,NA,GPL-3,NA,no,3.5.0
+rmutil,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.1,NA,GPL-2,NA,yes,3.5.0
+rnaturalearth,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.0,NA,MIT + file LICENSE,NA,no,3.5.0
+rngtools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3.1,NA,GPL-3,NA,no,3.5.0
+RNifti,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.10.0,NA,GPL-2,NA,yes,3.5.1
+robust,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4-18,NA,GPL-2,NA,yes,3.5.2
+robustbase,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.93-3,NA,GPL (>= 2),NA,yes,3.5.1
+ROCR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0-7,NA,GPL (>= 2),NA,no,3.5.0
+roxygen2,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,6.1.1,NA,GPL (>= 2),NA,yes,3.5.1
+rpart,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,4.1-13,recommended,GPL-2 | GPL-3,NA,yes,3.5.0
+rpart.plot,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.0.6,NA,GPL-3,NA,no,3.5.0
+RPostgreSQL,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6-2,NA,GPL-2 | file LICENSE,NA,yes,3.5.0
+rprojroot,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3-2,NA,GPL-3,NA,no,3.5.0
+RQGIS,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.4,NA,GPL-3,NA,no,3.5.1
+rrcov,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4-7,NA,GPL (>= 2),NA,yes,3.5.2
+RRF,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.9,NA,GPL (>= 2),NA,yes,3.5.1
+RSAGA,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3.0,NA,GPL-2 | file LICENSE,NA,no,3.5.1
+rsample,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0.3,NA,GPL-2,NA,no,3.5.0
+rsconnect,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.8.12,NA,GPL-2,NA,no,3.5.1
+RSelenium,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.7.4,NA,AGPL-3,NA,no,3.5.0
+RSpectra,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.13-1,NA,MPL (>= 2),NA,yes,3.5.0
+RSQLite,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.1.1,NA,LGPL (>= 2),NA,yes,3.5.0
+RSQLServer,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.0,NA,GPL-2,NA,no,3.4.0
+rstan,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.18.2,NA,GPL (>= 3),NA,yes,3.5.1
+rstanarm,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.18.2,NA,GPL (>= 3),NA,yes,3.5.1
+rstantools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.5.1,NA,GPL (>= 3),NA,no,3.5.0
+rstudioapi,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.8,NA,MIT + file LICENSE,NA,no,3.5.0
+RTextTools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4.2,NA,GPL-3,NA,yes,3.5.0
+Rttf2pt1,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3.7,NA,file LICENSE,yes,yes,3.5.0
+rtweet,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6.8,NA,MIT + file LICENSE,NA,no,3.5.0
+rversions,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.3,NA,MIT + file LICENSE,NA,no,3.5.0
+rvest,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.2,NA,GPL-3,NA,no,3.5.0
+rvg,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.9,NA,GPL-3,NA,yes,3.5.0
+RWeka,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4-39,NA,GPL-2,NA,no,3.5.1
+RWekajars,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.9.3-1,NA,GPL-2,NA,no,3.5.1
+Ryacas,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3-4,NA,GPL-2,NA,yes,3.5.0
+S4Vectors,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6.5,NA,Artistic-2.0,NA,yes,3.2.2
+sampling,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.8,NA,GPL (>= 2),NA,yes,3.5.1
+sandwich,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.5-0,NA,GPL-2 | GPL-3,NA,no,3.5.1
+scales,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.0,NA,MIT + file LICENSE,NA,yes,3.5.0
+scatterplot3d,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3-41,NA,GPL-2,NA,no,3.5.0
+scico,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.0,NA,MIT + file LICENSE,NA,no,3.5.0
+scryr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0.0.9000,NA,MIT + file LICENSE,NA,NA,3.5.0
+scyr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0.0.9000,NA,MIT + file LICENSE,NA,NA,3.5.0
+seewave,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.1.0,NA,GPL (>= 2),NA,yes,3.5.0
+segmented,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5-3.0,NA,GPL,NA,no,3.5.0
+selectr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4-1,NA,BSD_3_clause + file LICENCE,NA,no,3.5.0
+sem,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.1-9,NA,GPL (>= 2),NA,yes,3.5.0
+semver,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.0,NA,MIT + file LICENSE,NA,yes,3.5.0
+sentimentr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.6.1,NA,MIT + file LICENSE,NA,no,3.5.1
+seriation,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2-3,NA,GPL-3,NA,yes,3.5.1
+servr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.11,NA,GPL,NA,no,3.5.0
+sessioninfo,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.1,NA,GPL-2,NA,no,3.5.1
+settings,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.4,NA,GPL-3,NA,no,3.5.0
+sf,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.7-2,NA,GPL-2 | MIT + file LICENSE,NA,yes,3.5.2
+sfsmisc,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1-3,NA,GPL (>= 2),NA,no,3.5.0
+shape,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4.4,NA,GPL (>= 3),NA,no,3.5.0
+shapefiles,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.7,NA,GPL,NA,NA,3.5.0
+shiny,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.0,NA,GPL-3 | file LICENSE,NA,no,3.5.1
+shinyapps,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.1.4,NA,GPL-2,NA,NA,3.2.1
+shinydashboard,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.7.1,NA,GPL (>= 2) | file LICENSE,NA,no,3.5.1
+shinydashboardPlus,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6.0,NA,GPL-2,NA,no,3.5.1
+shinyDND,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.0,NA,GPL-3,NA,no,3.5.0
+shinyjs,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0,NA,AGPL-3,NA,no,3.5.0
+shinystan,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.5.0,NA,GPL (>= 3),NA,no,3.5.0
+shinythemes,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.2,NA,GPL-3 | file LICENSE,NA,no,3.5.1
+showtext,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5-1,NA,Apache License (>= 2.0),NA,yes,3.5.0
+showtextdb,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0,NA,Apache License (>= 2.0),NA,no,3.5.0
+sigclust,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.0,NA,GPL (>= 2),NA,no,3.5.0
+signal,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.7-6,NA,GPL-2,NA,yes,3.5.0
+simputation,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.2,NA,GPL-3,NA,yes,3.5.1
+simulator,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.0,NA,GPL-3,NA,no,3.5.0
+sjlabelled,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.15,NA,GPL-3,NA,no,3.5.1
+sjmisc,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.7.6,NA,GPL-3,NA,no,3.5.1
+sjPlot,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.6.2,NA,GPL-3,NA,no,3.5.2
+sjstats,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.17.2,NA,GPL-3,NA,no,3.5.1
+skimr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.3,NA,GPL-3,NA,no,3.5.2
+slam,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1-44,NA,GPL-2,NA,yes,3.5.2
+slidify,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5,NA,MIT,NA,NA,3.2.1
+slidifyLibraries,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.1,NA,MIT,NA,NA,3.2.1
+slipper,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0.0.9000,NA,MIT,NA,NA,3.3.2
+sna,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.4,NA,GPL (>= 2),NA,yes,3.5.0
+snakecase,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9.2,NA,GPL-3,NA,no,3.5.1
+snow,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4-3,NA,GPL,NA,no,3.5.1
+SnowballC,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5.1,NA,BSD_2_clause + file LICENSE,NA,yes,3.5.0
+snowfall,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.84-6.1,NA,GPL,NA,no,3.5.0
+sofa,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.0,NA,MIT + file LICENSE,NA,no,3.5.0
+SortableHTMLTables,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1-3,NA,MIT,NA,NA,3.5.0
+sortinghat,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1,NA,MIT + file LICENSE,NA,no,3.5.0
+sos,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0-0,NA,GPL (>= 2),NA,no,3.5.0
+sourcetools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.7,NA,MIT + file LICENSE,NA,yes,3.5.0
+sp,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3-1,NA,GPL (>= 2),NA,yes,3.5.0
+spacetime,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2-2,NA,GPL (>= 2),NA,no,3.5.1
+spacyr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0,NA,GPL-3,NA,no,3.5.0
+spam,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.2-1,NA,LGPL-2 | BSD_3_clause + file LICENSE,NA,yes,3.5.2
+sparkline,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0,NA,MIT + file LICENSE,NA,no,3.5.2
+sparklyr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9.3,NA,Apache License 2.0 | file LICENSE,NA,no,3.5.1
+SparseM,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.77,NA,GPL (>= 2),NA,yes,3.5.0
+spatial,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,7.3-11,recommended,GPL-2 | GPL-3,NA,yes,3.4.2
+spData,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.9.6,NA,CC0,NA,no,3.5.1
+spdep,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.8-1,NA,GPL (>= 2),NA,yes,3.5.0
+splancs,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.01-40,NA,GPL (>= 2),NA,yes,3.5.0
+sqldf,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4-11,NA,GPL-2,NA,no,3.5.0
+sqliter,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.0,NA,MIT + file LICENSE,NA,no,3.5.0
+sqlutils,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2,NA,GPL,NA,no,3.5.0
+SQUAREM,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2017.10-1,NA,GPL (>= 2),NA,no,3.5.0
+srvyr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.3,NA,GPL-2 | GPL-3,NA,no,3.5.1
+ssanv,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1,NA,GPL-3,NA,no,3.5.2
+stable,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.3,NA,GPL (>= 2),NA,yes,3.5.1
+stabledist,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.7-1,NA,GPL (>= 2),NA,no,3.5.0
+StableEstim,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.1,NA,GPL (>= 2),NA,no,3.5.0
+stabs,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6-3,NA,GPL-2,NA,no,3.5.0
+stackoverflow,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.0,NA,CC BY-SA 4.0,NA,no,3.5.1
+StanHeaders,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.18.0-1,NA,BSD_3_clause + file LICENSE,NA,yes,3.5.0
+stargazer,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,5.2.2,NA,GPL (>= 2),NA,no,3.5.0
+statip,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.0,NA,GPL-3,NA,yes,3.5.1
+StatMatch,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.5,NA,GPL (>= 2),NA,no,3.5.0
+statnet.common,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,4.1.4,NA,GPL-3 + file LICENSE,NA,yes,3.5.0
+statsr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1-1,NA,MIT + file LICENSE,NA,NA,3.3.0
+stopwords,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9.0,NA,MIT + file LICENSE,NA,no,3.5.0
+stringdist,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9.5.1,NA,GPL-3,NA,yes,3.5.0
+stringi,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.4,NA,file LICENSE,yes,yes,3.5.0
+stringr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3.1,NA,GPL-2 | file LICENSE,NA,no,3.5.0
+strptimer,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.0,NA,MIT + file LICENSE,NA,no,3.3.0
+strucchange,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.5-1,NA,GPL-2 | GPL-3,NA,no,3.5.0
+styler,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.0,NA,GPL-3,NA,no,3.5.0
+subprocess,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.8.3,NA,MIT + file LICENSE,NA,yes,3.5.1
+SuppDists,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1-9.4,NA,GPL (>= 2),NA,yes,3.5.2
+survey,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.35,NA,GPL-2 | GPL-3,NA,no,3.5.0
+survival,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.43-3,recommended,LGPL (>= 2),NA,yes,3.5.1
+svglite,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.1,NA,GPL (>= 2),NA,yes,3.5.0
+swirl,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.4.3,NA,MIT + file LICENSE,NA,no,3.5.0
+sysfonts,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.8,NA,GPL-2,NA,yes,3.5.1
+syuzhet,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.4,NA,GPL-3,NA,no,3.5.0
+tabulizer,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.2,NA,MIT + file LICENSE,NA,no,3.5.0
+tabulizerjars,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.1,NA,MIT + file LICENSE,NA,no,3.5.0
+tau,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0-20,NA,GPL-2,NA,yes,3.5.0
+tensorflow,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.10,NA,Apache License 2.0,NA,no,3.5.0
+testthat,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0.1,NA,MIT + file LICENSE,NA,yes,3.5.1
+testthatsomemore,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1,NA,MIT + file LICENSE,NA,no,3.2.4
+texreg,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.36.23,NA,GPL-2 | GPL-3,NA,no,3.5.0
+textclean,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9.3,NA,GPL-2,NA,no,3.5.0
+textreuse,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.4,NA,MIT + file LICENSE,NA,yes,3.5.0
+textshape,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.6.0,NA,GPL-2,NA,no,3.5.0
+tfestimators,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.9.1,NA,Apache License 2.0,NA,no,3.5.1
+tfruns,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4,NA,Apache License 2.0,NA,no,3.5.1
+TH.data,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0-9,NA,GPL-3,NA,no,3.5.0
+themebrightpeak,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.2,NA,file LICENSE,NA,NA,3.4.3
+threejs,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.1,NA,MIT + file LICENSE,NA,no,3.5.0
+tibble,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4.2,NA,MIT + file LICENSE,NA,yes,3.5.0
+tidygraph,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.1,NA,MIT + file LICENSE,NA,yes,3.5.0
+tidyjson,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.2,NA,MIT + file LICENSE,NA,no,3.4.0
+tidymodels,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0.2,NA,GPL-3 | file LICENSE,NA,no,3.5.0
+tidyposterior,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0.2,NA,GPL-2,NA,no,3.5.1
+tidypredict,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.1,NA,GPL-3,NA,no,3.5.2
+tidyr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.8.2,NA,MIT + file LICENSE,NA,yes,3.5.1
+tidyselect,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.5,NA,GPL-3,NA,yes,3.5.1
+tidytext,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.0,NA,MIT + file LICENSE,NA,no,3.5.0
+tidyverse,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.1,NA,GPL-3 | file LICENSE,NA,no,3.5.0
+tiff,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1-5,NA,GPL-2 | GPL-3,NA,yes,3.5.0
+timeDate,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3043.102,NA,GPL (>= 2),NA,no,3.5.0
+timereg,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.9.2,NA,GPL (>= 2),NA,yes,3.5.0
+timeROC,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3,NA,GPL (>= 2),NA,no,3.5.0
+timeSeries,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3042.102,NA,GPL (>= 2),NA,no,3.5.0
+tinytex,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.9,NA,MIT + file LICENSE,NA,no,3.5.0
+titanic,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.0,NA,CC0,NA,no,3.5.0
+tm,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.7-6,NA,GPL-3,NA,yes,3.5.2
+TMB,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.7.15,NA,GPL-2,NA,yes,3.5.1
+tokenizers,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.1,NA,MIT + file LICENSE,NA,yes,3.5.0
+topicmodels,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2-8,NA,GPL-2,NA,yes,3.5.2
+transformr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.1,NA,MIT + file LICENSE,NA,yes,3.5.0
+tree,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0-39,NA,GPL-2 | GPL-3,NA,yes,3.5.0
+treemap,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.4-2,NA,GPL-3,NA,no,3.5.0
+triebeard,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.0,NA,MIT + file LICENSE,NA,yes,3.5.0
+trimcluster,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1-2.1,NA,GPL,NA,no,3.5.0
+trust,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1-7,NA,MIT + file LICENSE,NA,no,3.5.0
+TSA,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2,NA,GPL (>= 2),NA,no,3.5.0
+tseries,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.10-46,NA,GPL-2,NA,yes,3.5.0
+TSP,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1-6,NA,GPL-3,NA,yes,3.5.0
+TTR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.23-4,NA,GPL-2,NA,yes,3.5.0
+tufte,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4,NA,GPL-3,NA,no,3.5.1
+tuneR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3.3,NA,GPL-2 | GPL-3,NA,yes,3.5.1
+tweenr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.1,NA,MIT + file LICENSE,NA,yes,3.5.0
+twitteR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.9,NA,Artistic-2.0,NA,no,3.5.0
+ubeR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.4,NA,GPL-3,NA,no,3.5.0
+ucminf,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1-4,NA,GPL (>= 2),NA,yes,3.5.0
+udunits2,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.13,NA,GPL-2,NA,yes,3.5.0
+units,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6-2,NA,GPL-2,NA,yes,3.5.1
+UpSetR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3.3,NA,MIT + file LICENSE,NA,no,3.5.1
+urca,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.3-0,NA,GPL (>= 2),NA,yes,3.5.0
+urltools,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.7.1,NA,MIT + file LICENSE,NA,yes,3.5.0
+uroot,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0-9,NA,GPL-2,NA,yes,3.5.0
+USAboundaries,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.1,NA,MIT + file LICENSE,NA,no,3.5.0
+usethis,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4.0,NA,GPL-3,NA,no,3.5.1
+UsingR,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0-6,NA,GPL (>= 2),NA,no,3.4.3
+utf8,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.4,NA,Apache License (== 2.0) | file LICENSE,NA,yes,3.5.0
+uuid,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1-2,NA,MIT + file LICENSE,NA,yes,3.5.0
+V8,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.5,NA,MIT + file LICENSE,NA,yes,3.5.0
+validate,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.6,NA,GPL-3,NA,yes,3.5.0
+vcd,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.4-4,NA,GPL-2,NA,no,3.5.0
+vcdExtra,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.7-1,NA,GPL (>= 2),NA,no,3.5.2
+vegan,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.5-3,NA,GPL-2,NA,yes,3.5.1
+venneuler,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1-0,NA,MPL-1.1,NA,NA,3.5.0
+VGAM,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0-6,NA,GPL-3,NA,yes,3.5.1
+vipor,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.5,NA,GPL (>= 2),NA,no,3.5.0
+viridis,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5.1,NA,MIT + file LICENSE,NA,no,3.5.0
+viridisLite,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.0,NA,MIT + file LICENSE,NA,no,3.5.0
+visdat,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5.2,NA,MIT + file LICENSE,NA,no,3.5.0
+waffle,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.7.0,NA,GPL (>= 2),NA,no,3.5.0
+WDI,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.5.1,NA,GPL-3,NA,no,3.5.0
+wdman,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2.4,NA,MIT + file LICENSE,NA,no,3.5.0
+webreadr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4.0,NA,MIT + file LICENSE,NA,yes,3.5.0
+webshot,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.5.1,NA,GPL-2,NA,no,3.5.0
+wesanderson,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3.6,NA,MIT + file LICENSE,NA,no,3.5.0
+whisker,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.3-2,NA,GPL-3,NA,no,3.5.0
+widyr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.1,NA,MIT + file LICENSE,NA,no,3.5.0
+withr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.1.2,NA,GPL (>= 2),NA,no,3.5.0
+wordcloud,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.6,NA,LGPL-2.1,NA,yes,3.5.1
+WRS2,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.10-0,NA,GPL-3,NA,yes,3.5.2
+xaringan,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.8,NA,MIT + file LICENSE,NA,no,3.5.1
+xda,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1,NA,GPL-3,NA,NA,3.3.0
+xfun,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.4,NA,MIT + file LICENSE,NA,no,3.5.0
+xgboost,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.71.2,NA,Apache License (== 2.0) | file LICENSE,NA,yes,3.5.0
+xkcd,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0.6,NA,GPL-3,NA,no,3.5.0
+xkcdcolors,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0,NA,MIT + file LICENSE,NA,no,3.5.0
+XLConnect,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2-15,NA,GPL-3,NA,no,3.5.0
+XLConnectJars,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.2-15,NA,GPL-3,NA,no,3.5.0
+xlsx,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6.1,NA,GPL-3,NA,no,3.5.0
+xlsxjars,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.6.1,NA,GPL-3,NA,no,3.5.0
+XML,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,3.98-1.16,NA,BSD_2_clause + file LICENSE,NA,yes,3.5.1
+xml2,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.2.0,NA,GPL (>= 2),NA,yes,3.5.0
+xopen,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.0,NA,MIT + file LICENSE,NA,no,3.5.0
+xtable,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.8-3,NA,GPL (>= 2),NA,no,3.5.1
+xts,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.11-2,NA,GPL (>= 2),NA,yes,3.5.1
+yacca,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.1.1,NA,GPL (>= 3),NA,no,3.5.1
+yaml,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.2.0,NA,BSD_3_clause + file LICENSE,NA,yes,3.5.0
+yardstick,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.0.2,NA,GPL-2,NA,yes,3.5.1
+yhat,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,2.0-0,NA,GPL (>= 2),NA,no,3.5.0
+yhatr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.15.1,NA,FreeBSD,NA,no,3.5.0
+yummlyr,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.1,NA,GPL (>= 2),NA,no,3.5.0
+zeallot,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,0.1.0,NA,MIT + file LICENSE,NA,no,3.5.0
+Zelig,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,5.1.6,NA,GPL (>= 3),NA,no,3.5.0
+zip,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.0.0,NA,CC0,NA,yes,3.5.0
+zlibbioc,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.14.0,NA,Artistic-2.0 + file LICENSE,NA,yes,3.2.0
+zoo,C:/Users/Karl Hailperin/Documents/R/win-library/3.5,1.8-4,NA,GPL-2 | GPL-3,NA,yes,3.5.0
+base,C:/Program Files/R/R-3.5.0/library,3.5.0,base,Part of R 3.5.0,NA,NA,3.5.0
+boot,C:/Program Files/R/R-3.5.0/library,1.3-20,recommended,Unlimited,NA,no,3.5.0
+class,C:/Program Files/R/R-3.5.0/library,7.3-14,recommended,GPL-2 | GPL-3,NA,yes,3.5.0
+cluster,C:/Program Files/R/R-3.5.0/library,2.0.7-1,recommended,GPL (>= 2),NA,yes,3.5.0
+codetools,C:/Program Files/R/R-3.5.0/library,0.2-15,recommended,GPL,NA,no,3.5.0
+compiler,C:/Program Files/R/R-3.5.0/library,3.5.0,base,Part of R 3.5.0,NA,NA,3.5.0
+datasets,C:/Program Files/R/R-3.5.0/library,3.5.0,base,Part of R 3.5.0,NA,NA,3.5.0
+foreign,C:/Program Files/R/R-3.5.0/library,0.8-70,recommended,GPL (>= 2),NA,yes,3.5.0
+graphics,C:/Program Files/R/R-3.5.0/library,3.5.0,base,Part of R 3.5.0,NA,yes,3.5.0
+grDevices,C:/Program Files/R/R-3.5.0/library,3.5.0,base,Part of R 3.5.0,NA,yes,3.5.0
+grid,C:/Program Files/R/R-3.5.0/library,3.5.0,base,Part of R 3.5.0,NA,yes,3.5.0
+KernSmooth,C:/Program Files/R/R-3.5.0/library,2.23-15,recommended,Unlimited,NA,yes,3.5.0
+lattice,C:/Program Files/R/R-3.5.0/library,0.20-35,recommended,GPL (>= 2),NA,yes,3.5.0
+MASS,C:/Program Files/R/R-3.5.0/library,7.3-49,recommended,GPL-2 | GPL-3,NA,yes,3.5.0
+Matrix,C:/Program Files/R/R-3.5.0/library,1.2-14,recommended,GPL (>= 2) | file LICENCE,NA,yes,3.5.0
+methods,C:/Program Files/R/R-3.5.0/library,3.5.0,base,Part of R 3.5.0,NA,yes,3.5.0
+mgcv,C:/Program Files/R/R-3.5.0/library,1.8-23,recommended,GPL (>= 2),NA,yes,3.5.0
+nlme,C:/Program Files/R/R-3.5.0/library,3.1-137,recommended,GPL (>= 2) | file LICENCE,NA,yes,3.5.0
+nnet,C:/Program Files/R/R-3.5.0/library,7.3-12,recommended,GPL-2 | GPL-3,NA,yes,3.5.0
+parallel,C:/Program Files/R/R-3.5.0/library,3.5.0,base,Part of R 3.5.0,NA,yes,3.5.0
+rpart,C:/Program Files/R/R-3.5.0/library,4.1-13,recommended,GPL-2 | GPL-3,NA,yes,3.5.0
+spatial,C:/Program Files/R/R-3.5.0/library,7.3-11,recommended,GPL-2 | GPL-3,NA,yes,3.5.0
+splines,C:/Program Files/R/R-3.5.0/library,3.5.0,base,Part of R 3.5.0,NA,yes,3.5.0
+stats,C:/Program Files/R/R-3.5.0/library,3.5.0,base,Part of R 3.5.0,NA,yes,3.5.0
+stats4,C:/Program Files/R/R-3.5.0/library,3.5.0,base,Part of R 3.5.0,NA,NA,3.5.0
+survival,C:/Program Files/R/R-3.5.0/library,2.41-3,recommended,LGPL (>= 2),NA,yes,3.5.0
+tcltk,C:/Program Files/R/R-3.5.0/library,3.5.0,base,Part of R 3.5.0,NA,yes,3.5.0
+tools,C:/Program Files/R/R-3.5.0/library,3.5.0,base,Part of R 3.5.0,NA,yes,3.5.0
+translations,C:/Program Files/R/R-3.5.0/library,3.5.0,NA,Part of R 3.5.0,NA,NA,3.5.0
+utils,C:/Program Files/R/R-3.5.0/library,3.5.0,base,Part of R 3.5.0,NA,yes,3.5.0
