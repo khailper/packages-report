@@ -30,3 +30,4 @@ write_csv(here("data", "installed-packages.csv"))
 devtools::session_info()
 
 ## serious conflict part 1
+## serious conflict part 2
