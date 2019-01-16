@@ -114,9 +114,3 @@ devtools::session_info()
 ```
 
 </details>
-
-Adding weird words
-==================
-
--   balderdash
--   tamperproof
