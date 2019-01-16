@@ -126,3 +126,6 @@ testing amend
 =============
 
 -   more amend test
+
+local conflict
+==============

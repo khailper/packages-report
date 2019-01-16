@@ -54,3 +54,5 @@ devtools::session_info()
 
 # testing amend
 - more amend test
+
+# local conflict
