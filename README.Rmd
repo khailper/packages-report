@@ -49,3 +49,4 @@ devtools::session_info()
 
 # Adding weird words
 - balderdash
+- tamperproof
