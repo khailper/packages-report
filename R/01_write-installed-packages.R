@@ -28,3 +28,5 @@ write_csv(here("data", "installed-packages.csv"))
 ## that's a old result from me (Jenny)
 ## it an example of what yours should look like and where it should go
 devtools::session_info()
+
+## serious conflict part 2
