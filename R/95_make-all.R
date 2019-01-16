@@ -15,3 +15,6 @@ source(here("R", "03_barchart-packages-built.R"))
 
 rmarkdown::render(here("README.Rmd"))
 file_delete("README.html")
+
+
+# this is to intentially set up a conflict
